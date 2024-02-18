@@ -1,0 +1,12 @@
+Barrera Peña Víctor Miguel
+
+Clasificacion:
+
+topologia: Estrella, Anillo Malla, Bus
+Cobertura: PAN,LAN,MAN,WAN
+Control de información: Centralizado, Descentralizado.
+Trasferencia de información: Conmutación, Difusión
+
+Link:
+
+https://padlet.com/tareasvictormiguelbarrerapena/mi-padlet-magn-fico-mpo32lgb8ibcruib
