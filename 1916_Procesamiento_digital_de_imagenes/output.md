@@ -68,7 +68,7 @@ M_{3 \times 3} = \frac{1}{3^2}
 1 & 1 & 1 \\
 1 & 1 & 1 \\
 1 & 1 & 1 
-\end{bmatrix}
+\end{bmatrix}
 $$
 Ahora resolvamos en código para automatizar en diferentes valores de N y obtenemos el siguiente resultado:
 
@@ -90,6 +90,8 @@ Aplicar los filtros paso bajas binomiales a la imagen sin ruido y a la imagen co
 
 
 
+
+
 ## Actividad 4
 
 1. Aplicar a la imagen sin ruido y con ruido los filtros basados en la primera derivada de gausiana o detectores de borde siguientes:
@@ -98,11 +100,19 @@ Aplicar los filtros paso bajas binomiales a la imagen sin ruido y a la imagen co
    - Sobel en la dirección X y en la dirección Y.
    - Basados en la primera derivada de Gaussiana de orden 5x5, 7x7 y 11x11.
 
+**Solución:**
+
+
+
 ## Actividad 5
 
 2. De igual manera, aplicar a la imagen sin ruido y a la imagen con ruido los filtros basados en la segunda derivada de gausiana siguientes:
    - Laplaciano
    - Basados en la segunda derivada de Gaussiana de orden 5x5, 7x7 y 11x11.
+
+**Solución:**
+
+
 
 ## Actividad 6
 
@@ -110,26 +120,31 @@ Aplicar los filtros paso bajas binomiales a la imagen sin ruido y a la imagen co
    - Filtro paso bajas de bloque de orden 3x3 y 7x7.
    - Filtro paso bajas binomial de orden 3x3 y 7x7.
 
-​              
+​             
+
+**Solución:**
 
 
-> 
-
-# DESARROLLO
 
 .
 
-#  Resultados
+#  IV) Resultados
 
-# Conclusiones:
+# V) Conclusiones:
 
-# Codigo Fuente
+**Barrera Peña Víctor Miguel:**
 
-#  {#section .unnumbered}
+**Mendoza Anaya Aldair Israel:**
 
-# Bibliografía
 
-# Referencia:
+
+# VI) Código Fuente
+
+
+
+# VII) Bibliografía
+
+# VIII) Referencia:
 
 -   https://www.tamps.cinvestav.mx/~wgomez/diapositivas/AID/Clase04.pdf
 -   http://ri.uaemex.mx/bitstream/handle/20.500.11799/108401/secme-37094_1.pdf?sequence=1&isAllowed=y
